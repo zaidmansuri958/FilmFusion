@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341743208904",
+    "project_id": "filmfusion-a1431",
+    "storage_bucket": "filmfusion-a1431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341743208904:android:83540ce60f06a3f96c58fd",
+        "android_client_info": {
+          "package_name": "com.zaidmansuri.filmfusion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341743208904-mliu0gq6f1ldekkgs2894a7vv143ts1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbnO3LFgbWoWGnqSeIGFg-WTznuWuB4Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341743208904-mliu0gq6f1ldekkgs2894a7vv143ts1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
